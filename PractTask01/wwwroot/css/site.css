@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+h3 {
+  width: 100%;
+  text-align: center;
+}
+
+input {
+    font-size: 22px;
+}

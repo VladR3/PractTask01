@@ -1,0 +1,8 @@
+﻿@model UserModel;
+
+<form action="/Home/Welcome" method="post" class= "position-absolute top-50 start-50 translate-middle">
+    <h3>Enter name</h3>
+        <input name="name" value="@Model.Name" />
+
+    <input type="submit" value="Enter" />
+</form>
